@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background: linear-gradient(#d18ed1 0%, #8ea7d1 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px pink;
+    font-size: 20px;
+}
+h2 {
+    font-size: 25px;
+    font-family: 'Pattaya', sans-serif;    
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top:10px;
+    right:30px;
+    text-align:right;
+}
+
+#name {
+    font-family: 'Zen Dots', cursive;
+    font-size: 30px;
+}
+
+li {
+    display: inline;
+    font-size: 15px;    
+}
+li:hover {
+    background-color: dodgerblue;
+}
+ 
